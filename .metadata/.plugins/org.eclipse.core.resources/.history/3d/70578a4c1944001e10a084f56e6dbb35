@@ -1,0 +1,5 @@
+package com.currencyconversion.client;
+
+public interface CurrenecyConversionClient {
+
+}

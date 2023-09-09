@@ -1,0 +1,3 @@
+
+spring.application.name=Spring-Config-server
+server.port=9090

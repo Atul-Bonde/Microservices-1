@@ -1,0 +1,8 @@
+package com.currencyconversion.client;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient(name="Currency-Exchange",url="localhost:8686")
+public interface CurrenecyConversionClient {
+
+}
